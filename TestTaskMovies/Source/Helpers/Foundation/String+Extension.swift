@@ -17,7 +17,6 @@ extension String {
         formatDate.locale = .init(identifier: "ru_RU")
         formatDate.dateFormat = "yyyy"
         let date = formatDate.string(from: backendDate)
-        
         return date
     }    
 }
