@@ -6,7 +6,6 @@
 //
 
 import UIKit
-
 class GradientView: UIView {
     var topColor: UIColor = Colors.Gradient.topColor
     var midColor: UIColor = Colors.Gradient.midColor
