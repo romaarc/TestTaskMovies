@@ -9,14 +9,12 @@ API для фильмов нужно брать через сервис ​https
 Документацию по работе API этого сервиса можно получить по ссылке ​https://www.themoviedb.org/documentation/api
 
 # Экраны
-https://user-images.githubusercontent.com/28999468/142624270-9d9f33f0-7ace-4ac8-b280-1d4310999100.mov
+- https://user-images.githubusercontent.com/28999468/142624738-c00e80db-1a17-4f65-ab84-eec04dbc4a2a.mov
 
-https://user-images.githubusercontent.com/28999468/142624738-c00e80db-1a17-4f65-ab84-eec04dbc4a2a.mov
-
-
+- https://user-images.githubusercontent.com/28999468/142624270-9d9f33f0-7ace-4ac8-b280-1d4310999100.mov
 
 
-https://user-images.githubusercontent.com/28999468/142625309-ff68646f-352a-412a-907a-a5a93cf0ec0c.mov
+- https://user-images.githubusercontent.com/28999468/142625309-ff68646f-352a-412a-907a-a5a93cf0ec0c.mov
 
 
 
