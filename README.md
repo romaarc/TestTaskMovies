@@ -33,7 +33,7 @@ API для фильмов нужно брать через сервис ​https
 
 ## Installation
 
-У вас должны быть установлены SPM Kingfisher
+У вас должны быть установлены SPM <a href="https://github.com/onevcat/Kingfisher">Kingfisher</a>
 
 ## Детали реализации
 
@@ -43,6 +43,7 @@ iOS 13, Project without Storyboard and Xibs, only layout with code
 ### Архитектура приложения
 Специально сделана реализация на MVC, мои другие проекты будут на других архитектурах 
 <br>
+
 **MVC + Coordinator + Services (Core Data Stack + URLSession)**.<br>
 
 ### All tests code coverage
