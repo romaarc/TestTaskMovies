@@ -1,8 +1,4 @@
 # TestTaskMovies
-<p align="justify">
-    <img src="https://i.postimg.cc/4xcm7vsM/film-reel-2.png">
-</p>
-
 # Описание
 Разработать простое приложение для просмотра  фильмов. 
 API для фильмов нужно брать через сервис ​https://www.themoviedb.org/.​
