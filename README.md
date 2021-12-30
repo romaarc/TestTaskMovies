@@ -31,18 +31,18 @@ API для фильмов нужно брать через сервис ​https
 
 У вас должны быть установлены SPM <a href="https://github.com/onevcat/Kingfisher">Kingfisher</a>
 
-## Детали реализации
-
-### Deployment Target: 
-iOS 13, Project without Storyboard and Xibs, only layout with code
-
-### Архитектура приложения
+# Детали реализации
+## Deployment Target
+iOS 13
+## Архитектура приложения
 Специально сделана реализация на MVC, мои другие проекты будут на других архитектурах 
 <br>
 
 **MVC + Coordinator + Services (Core Data Stack + URLSession)**.<br>
+## UI
+**UIKit without Storyboard and Xibs, only layout with code**<br>
 
-### All tests code coverage
+# All tests code coverage
 <img width="989" alt="Screenshot 2021-11-19 at 16 26 38" src="https://user-images.githubusercontent.com/28999468/142630248-3b0d702e-a2fd-45fe-9071-e654711ba3ad.png">
 
 ## Subscribe, Like & Share.
